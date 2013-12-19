@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/11/trunk/PanTile/Bisight_server/include/Bisight_server/libUtils/src
+END
+joint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/11/trunk/PanTile/Bisight_server/include/Bisight_server/libUtils/src/joint.cpp
+END
+libUtils.vcproj.NEEP.George Konidaris.user
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/11/trunk/PanTile/Bisight_server/include/Bisight_server/libUtils/src/libUtils.vcproj.NEEP.George%20Konidaris.user
+END
+Kinematics.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/11/trunk/PanTile/Bisight_server/include/Bisight_server/libUtils/src/Kinematics.cpp
+END
+MathTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/11/trunk/PanTile/Bisight_server/include/Bisight_server/libUtils/src/MathTest.cpp
+END
+geometry.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/11/trunk/PanTile/Bisight_server/include/Bisight_server/libUtils/src/geometry.cpp
+END
+libUtils.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/11/trunk/PanTile/Bisight_server/include/Bisight_server/libUtils/src/libUtils.dsp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/11/trunk/PanTile/Bisight_server/include/Bisight_server/libUtils/src/Makefile
+END
+obstacle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/11/trunk/PanTile/Bisight_server/include/Bisight_server/libUtils/src/obstacle.cpp
+END
+link.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/11/trunk/PanTile/Bisight_server/include/Bisight_server/libUtils/src/link.cpp
+END
+libUtils.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/11/trunk/PanTile/Bisight_server/include/Bisight_server/libUtils/src/libUtils.vcproj
+END
+PortableSerial.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/11/trunk/PanTile/Bisight_server/include/Bisight_server/libUtils/src/PortableSerial.cpp
+END
+angles.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/11/trunk/PanTile/Bisight_server/include/Bisight_server/libUtils/src/angles.cpp
+END
+transform.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/11/trunk/PanTile/Bisight_server/include/Bisight_server/libUtils/src/transform.cpp
+END
+libUtils.vcproj.Kangaroo.Dirk.user
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/11/trunk/PanTile/Bisight_server/include/Bisight_server/libUtils/src/libUtils.vcproj.Kangaroo.Dirk.user
+END
+matvec.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/11/trunk/PanTile/Bisight_server/include/Bisight_server/libUtils/src/matvec.cpp
+END

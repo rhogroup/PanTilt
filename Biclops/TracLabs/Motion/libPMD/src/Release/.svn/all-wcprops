@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/11/trunk/PanTile/Biclops/TracLabs/Motion/libPMD/src/Release
+END
+Sequencing.sbr
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/11/trunk/PanTile/Biclops/TracLabs/Motion/libPMD/src/Release/Sequencing.sbr
+END
+PMDUtils.sbr
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/11/trunk/PanTile/Biclops/TracLabs/Motion/libPMD/src/Release/PMDUtils.sbr
+END
+BuildLog.htm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/11/trunk/PanTile/Biclops/TracLabs/Motion/libPMD/src/Release/BuildLog.htm
+END
+PMD.obj
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/11/trunk/PanTile/Biclops/TracLabs/Motion/libPMD/src/Release/PMD.obj
+END
+PMDSerial.obj
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/11/trunk/PanTile/Biclops/TracLabs/Motion/libPMD/src/Release/PMDSerial.obj
+END
+Compass.sbr
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/11/trunk/PanTile/Biclops/TracLabs/Motion/libPMD/src/Release/Compass.sbr
+END
+PMDAxisControl.sbr
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/11/trunk/PanTile/Biclops/TracLabs/Motion/libPMD/src/Release/PMDAxisControl.sbr
+END
+PMDController.obj
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/11/trunk/PanTile/Biclops/TracLabs/Motion/libPMD/src/Release/PMDController.obj
+END
+PMDNetwork.obj
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/11/trunk/PanTile/Biclops/TracLabs/Motion/libPMD/src/Release/PMDNetwork.obj
+END
+PMDSerial.sbr
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/11/trunk/PanTile/Biclops/TracLabs/Motion/libPMD/src/Release/PMDSerial.sbr
+END
+PMD.sbr
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/11/trunk/PanTile/Biclops/TracLabs/Motion/libPMD/src/Release/PMD.sbr
+END
+PMDTransport.obj
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/11/trunk/PanTile/Biclops/TracLabs/Motion/libPMD/src/Release/PMDTransport.obj
+END
+PMDParallel.obj
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/11/trunk/PanTile/Biclops/TracLabs/Motion/libPMD/src/Release/PMDParallel.obj
+END
+PMDController.sbr
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/11/trunk/PanTile/Biclops/TracLabs/Motion/libPMD/src/Release/PMDController.sbr
+END
+Sequencing.obj
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/11/trunk/PanTile/Biclops/TracLabs/Motion/libPMD/src/Release/Sequencing.obj
+END
+PMDUtils.obj
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/11/trunk/PanTile/Biclops/TracLabs/Motion/libPMD/src/Release/PMDUtils.obj
+END
+vc90.idb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/11/trunk/PanTile/Biclops/TracLabs/Motion/libPMD/src/Release/vc90.idb
+END
+Compass.obj
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/11/trunk/PanTile/Biclops/TracLabs/Motion/libPMD/src/Release/Compass.obj
+END
+PMDNetwork.sbr
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/11/trunk/PanTile/Biclops/TracLabs/Motion/libPMD/src/Release/PMDNetwork.sbr
+END
+PMDAxisControl.obj
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/11/trunk/PanTile/Biclops/TracLabs/Motion/libPMD/src/Release/PMDAxisControl.obj
+END
+PMDTransport.sbr
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/11/trunk/PanTile/Biclops/TracLabs/Motion/libPMD/src/Release/PMDTransport.sbr
+END
+PMDParallel.sbr
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/11/trunk/PanTile/Biclops/TracLabs/Motion/libPMD/src/Release/PMDParallel.sbr
+END

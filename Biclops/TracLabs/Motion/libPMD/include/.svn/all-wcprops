@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/11/trunk/PanTile/Biclops/TracLabs/Motion/libPMD/include
+END
+PMDCollections.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/11/trunk/PanTile/Biclops/TracLabs/Motion/libPMD/include/PMDCollections.h
+END
+PMDSerial.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/11/trunk/PanTile/Biclops/TracLabs/Motion/libPMD/include/PMDSerial.h
+END
+PMD.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/11/trunk/PanTile/Biclops/TracLabs/Motion/libPMD/include/PMD.h
+END
+PMDController.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/11/trunk/PanTile/Biclops/TracLabs/Motion/libPMD/include/PMDController.h
+END
+PMDIOTransport.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/11/trunk/PanTile/Biclops/TracLabs/Motion/libPMD/include/PMDIOTransport.h
+END
+PMDNetwork.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/11/trunk/PanTile/Biclops/TracLabs/Motion/libPMD/include/PMDNetwork.h
+END
+PMDOPCodes.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/11/trunk/PanTile/Biclops/TracLabs/Motion/libPMD/include/PMDOPCodes.h
+END
+PMDTransport.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/11/trunk/PanTile/Biclops/TracLabs/Motion/libPMD/include/PMDTransport.h
+END
+PMDParallel.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/11/trunk/PanTile/Biclops/TracLabs/Motion/libPMD/include/PMDParallel.h
+END
+PMDUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/11/trunk/PanTile/Biclops/TracLabs/Motion/libPMD/include/PMDUtils.h
+END
+Sequencing.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/11/trunk/PanTile/Biclops/TracLabs/Motion/libPMD/include/Sequencing.h
+END
+Compass.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/11/trunk/PanTile/Biclops/TracLabs/Motion/libPMD/include/Compass.h
+END
+PMDTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/11/trunk/PanTile/Biclops/TracLabs/Motion/libPMD/include/PMDTypes.h
+END
+PMDAxisControl.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/11/trunk/PanTile/Biclops/TracLabs/Motion/libPMD/include/PMDAxisControl.h
+END
+PMDDiagnostics.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/11/trunk/PanTile/Biclops/TracLabs/Motion/libPMD/include/PMDDiagnostics.h
+END
+PMDErrorCodes.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/11/trunk/PanTile/Biclops/TracLabs/Motion/libPMD/include/PMDErrorCodes.h
+END

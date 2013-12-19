@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/11/trunk/PanTile/DPPanTilt_msgs/msg
+END
+SetVelocityTilt.msg
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/11/trunk/PanTile/DPPanTilt_msgs/msg/SetVelocityTilt.msg
+END
+SetVelocityPan.msg
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/11/trunk/PanTile/DPPanTilt_msgs/msg/SetVelocityPan.msg
+END
+SetAbsolutePositionTilt.msg
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/11/trunk/PanTile/DPPanTilt_msgs/msg/SetAbsolutePositionTilt.msg
+END
+ReportDynamicInfo.msg
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/11/trunk/PanTile/DPPanTilt_msgs/msg/ReportDynamicInfo.msg
+END
+SetRelativePosition.msg
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/11/trunk/PanTile/DPPanTilt_msgs/msg/SetRelativePosition.msg
+END
+StartVelocityControl.msg
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/11/trunk/PanTile/DPPanTilt_msgs/msg/StartVelocityControl.msg
+END
+HaltMotion.msg
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/11/trunk/PanTile/DPPanTilt_msgs/msg/HaltMotion.msg
+END
+SetAbsolutePositionPan.msg
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/11/trunk/PanTile/DPPanTilt_msgs/msg/SetAbsolutePositionPan.msg
+END
+ReportStaticInfo.msg
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/11/trunk/PanTile/DPPanTilt_msgs/msg/ReportStaticInfo.msg
+END
+SetSpeedForPositionMovesTilt.msg
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/11/trunk/PanTile/DPPanTilt_msgs/msg/SetSpeedForPositionMovesTilt.msg
+END
+SetAbsolutePosition.msg
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/11/trunk/PanTile/DPPanTilt_msgs/msg/SetAbsolutePosition.msg
+END
+SetSpeedForPositionMovesPan.msg
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/11/trunk/PanTile/DPPanTilt_msgs/msg/SetSpeedForPositionMovesPan.msg
+END
+Reset.msg
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/11/trunk/PanTile/DPPanTilt_msgs/msg/Reset.msg
+END
+StartPositionControl.msg
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/11/trunk/PanTile/DPPanTilt_msgs/msg/StartPositionControl.msg
+END

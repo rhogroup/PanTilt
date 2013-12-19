@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/11/trunk/PanTile/Bisight_server/include/Bisight_server/libUtils/include
+END
+Kinematics.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/11/trunk/PanTile/Bisight_server/include/Bisight_server/libUtils/include/Kinematics.h
+END
+mathfuncs.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/11/trunk/PanTile/Bisight_server/include/Bisight_server/libUtils/include/mathfuncs.h
+END
+PortableSerial.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/11/trunk/PanTile/Bisight_server/include/Bisight_server/libUtils/include/PortableSerial.h
+END
+angles.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/11/trunk/PanTile/Bisight_server/include/Bisight_server/libUtils/include/angles.h
+END
+geometry.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/11/trunk/PanTile/Bisight_server/include/Bisight_server/libUtils/include/geometry.h
+END
+transform.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/11/trunk/PanTile/Bisight_server/include/Bisight_server/libUtils/include/transform.h
+END
+constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/11/trunk/PanTile/Bisight_server/include/Bisight_server/libUtils/include/constants.h
+END
+obstacle.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/11/trunk/PanTile/Bisight_server/include/Bisight_server/libUtils/include/obstacle.h
+END
+link.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/11/trunk/PanTile/Bisight_server/include/Bisight_server/libUtils/include/link.h
+END
+matvec.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/11/trunk/PanTile/Bisight_server/include/Bisight_server/libUtils/include/matvec.h
+END
+singleton.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/11/trunk/PanTile/Bisight_server/include/Bisight_server/libUtils/include/singleton.h
+END
+utility.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/11/trunk/PanTile/Bisight_server/include/Bisight_server/libUtils/include/utility.h
+END
+joint.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/11/trunk/PanTile/Bisight_server/include/Bisight_server/libUtils/include/joint.h
+END

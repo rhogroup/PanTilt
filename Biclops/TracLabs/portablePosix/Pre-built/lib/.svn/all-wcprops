@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/11/trunk/PanTile/Biclops/TracLabs/portablePosix/Pre-built/lib
+END
+pthreadVC.dll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/11/trunk/PanTile/Biclops/TracLabs/portablePosix/Pre-built/lib/pthreadVC.dll
+END
+pthreadVSE.lib
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/11/trunk/PanTile/Biclops/TracLabs/portablePosix/Pre-built/lib/pthreadVSE.lib
+END
+pthreadVCE.lib
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/11/trunk/PanTile/Biclops/TracLabs/portablePosix/Pre-built/lib/pthreadVCE.lib
+END
+pthreadGC.dll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/11/trunk/PanTile/Biclops/TracLabs/portablePosix/Pre-built/lib/pthreadGC.dll
+END
+pthreadVCE.dll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/11/trunk/PanTile/Biclops/TracLabs/portablePosix/Pre-built/lib/pthreadVCE.dll
+END
+pthreadVSE.dll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/11/trunk/PanTile/Biclops/TracLabs/portablePosix/Pre-built/lib/pthreadVSE.dll
+END
+pthreadGCE.dll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/11/trunk/PanTile/Biclops/TracLabs/portablePosix/Pre-built/lib/pthreadGCE.dll
+END
+pthreadVC.lib
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/11/trunk/PanTile/Biclops/TracLabs/portablePosix/Pre-built/lib/pthreadVC.lib
+END

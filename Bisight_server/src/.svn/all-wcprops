@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/11/trunk/PanTile/Bisight_server/src
+END
+bisight_server.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/11/trunk/PanTile/Bisight_server/src/bisight_server.cpp
+END
+Biclops.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/11/trunk/PanTile/Bisight_server/src/Biclops.h
+END
+BiclopsServer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/11/trunk/PanTile/Bisight_server/src/BiclopsServer.cpp
+END
+comport.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/11/trunk/PanTile/Bisight_server/src/comport.c
+END
+bisight_driver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/11/trunk/PanTile/Bisight_server/src/bisight_driver.cpp
+END
+bisight_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/11/trunk/PanTile/Bisight_server/src/bisight_test.cpp
+END
+BiclopsAccess.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/11/trunk/PanTile/Bisight_server/src/BiclopsAccess.cpp
+END

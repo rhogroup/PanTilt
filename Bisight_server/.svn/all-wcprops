@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/11/trunk/PanTile/Bisight_server
+END
+BiclopsCtlr-Pan.home
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/11/trunk/PanTile/Bisight_server/BiclopsCtlr-Pan.home
+END
+manifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/11/trunk/PanTile/Bisight_server/manifest.xml
+END
+mainpage.dox
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/11/trunk/PanTile/Bisight_server/mainpage.dox
+END
+FindBiclops.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/11/trunk/PanTile/Bisight_server/FindBiclops.cmake
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/11/trunk/PanTile/Bisight_server/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/11/trunk/PanTile/Bisight_server/Makefile
+END
+BiclopsDefault.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/11/trunk/PanTile/Bisight_server/BiclopsDefault.cfg
+END

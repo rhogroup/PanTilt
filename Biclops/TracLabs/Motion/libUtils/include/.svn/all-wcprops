@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/11/trunk/PanTile/Biclops/TracLabs/Motion/libUtils/include
+END
+singleton.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/11/trunk/PanTile/Biclops/TracLabs/Motion/libUtils/include/singleton.h
+END
+utility.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/11/trunk/PanTile/Biclops/TracLabs/Motion/libUtils/include/utility.h
+END
+joint.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/11/trunk/PanTile/Biclops/TracLabs/Motion/libUtils/include/joint.h
+END
+Kinematics.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/11/trunk/PanTile/Biclops/TracLabs/Motion/libUtils/include/Kinematics.h
+END
+mathfuncs.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/11/trunk/PanTile/Biclops/TracLabs/Motion/libUtils/include/mathfuncs.h
+END
+PortableSerial.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/11/trunk/PanTile/Biclops/TracLabs/Motion/libUtils/include/PortableSerial.h
+END
+angles.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/11/trunk/PanTile/Biclops/TracLabs/Motion/libUtils/include/angles.h
+END
+geometry.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/11/trunk/PanTile/Biclops/TracLabs/Motion/libUtils/include/geometry.h
+END
+transform.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/11/trunk/PanTile/Biclops/TracLabs/Motion/libUtils/include/transform.h
+END
+constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/11/trunk/PanTile/Biclops/TracLabs/Motion/libUtils/include/constants.h
+END
+obstacle.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/11/trunk/PanTile/Biclops/TracLabs/Motion/libUtils/include/obstacle.h
+END
+link.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/11/trunk/PanTile/Biclops/TracLabs/Motion/libUtils/include/link.h
+END
+matvec.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/11/trunk/PanTile/Biclops/TracLabs/Motion/libUtils/include/matvec.h
+END
